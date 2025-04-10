@@ -8,7 +8,7 @@ A stylish and interactive To-Do List built with **HTML**, **CSS**, and **JavaScr
 - 🎯 Mark tasks as complete/incomplete
 
 ## 🔥 Live Demo
-[👉 Click Here to Try the App]([https://yourusername.github.io/your-repo-name/](https://interactive-todo-list-app.netlify.app/))  
+[👉 Click Here to Try the App](https://interactive-todo-list-app.netlify.app/)
 
 
 ---
