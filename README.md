@@ -8,8 +8,8 @@ A stylish and interactive To-Do List built with **HTML**, **CSS**, and **JavaScr
 - 🎯 Mark tasks as complete/incomplete
 
 ## 🔥 Live Demo
-[👉 Click Here to Try the App](https://yourusername.github.io/your-repo-name/)  
-(*replace with your actual GitHub Pages link after deployment*)
+[👉 Click Here to Try the App]([https://yourusername.github.io/your-repo-name/](https://interactive-todo-list-app.netlify.app/))  
+
 
 ---
 
@@ -23,8 +23,8 @@ to-do-list-app ├── index.html ├── styles.css └── script.js
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/PanavAgarwal-03/Interactive-To-Do-List-with-Drag-Drop-Progress-Bar.git
+cd Interactive-To-Do-List-with-Drag-Drop-Progress-Bar
 ```
 2. Open **index.html** in your browser
 
